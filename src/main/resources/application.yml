@@ -1,0 +1,10 @@
+server:
+  port: 9000
+hatchways:
+  api: "------NOT PUBLIC -------"
+---
+
+spring:
+  profiles: dev
+hatchways:
+  api: "------NOT PUBLIC -------"
